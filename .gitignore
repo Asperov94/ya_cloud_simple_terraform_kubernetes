@@ -1,0 +1,4 @@
+ya_key.json
+.terraform
+.terraform.lock.hcl
+secrets.tfvars
